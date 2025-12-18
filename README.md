@@ -24,8 +24,8 @@ I'm very passionate and learning about Game Designing and Game Programming, curr
 | 🎮 Leveling Up : Grace | 🎮 Sunnyside Garden |
 | --- | --- |
 | <img src="https://img.itch.zone/aW1nLzI0NDk1Mzg4LnBuZw==/347x500/5sWN%2Fk.png" width="100%"> | <img src="https://img.itch.zone/aW1nLzI0MDc3NjkzLnBuZw==/347x500/BoigpK.png" width="100%"> |
-| **Description:** <br> A short webgame I made using Unity for Grace Tahir's birthday. <br><br> **Tech:** C#, Unity | **Description:** <br> A test game I made using Unity for my Game Programming Midterm Test. <br><br> **Tech:** React, Node.js |
-| [🕹️ Play Now]([https://your-link.com](https://kitsucchi.itch.io/leveling-up-grace)) | [🕹️ Play Now](https://kitsucchi.itch.io/sunnyside-garden) |
+| **Description:** <br> A short webgame I made using Unity for Grace Tahir's birthday. <br><br> **Tech:** C#, Unity | **Description:** <br> A test game I made using Unity for my Game Programming Midterm Test. <br><br> **Tech:** C#, Unity |
+| [🕹️ Play Now](https://your-link.com](https://kitsucchi.itch.io/leveling-up-grace) | [🕹️ Play Now](https://kitsucchi.itch.io/sunnyside-garden) |
 
 ---
 
