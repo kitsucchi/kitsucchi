@@ -1,4 +1,4 @@
-<img width="347" height="347" alt="image" src="https://github.com/user-attachments/assets/f9fb4f54-e463-4a07-aa65-c1d70f3f7b26" /># Hello, I'm Raden Muhammad Mikhel Adrian Soehardi!
+# Hello, I'm Raden Muhammad Mikhel Adrian Soehardi!
 
 ---
 
@@ -11,11 +11,11 @@ I'm very passionate and learning about Game Designing and Game Programming, curr
 
 ## 🛠️ Skills & Tools
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS(https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ---
 
