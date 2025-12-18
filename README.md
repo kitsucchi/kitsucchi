@@ -1,7 +1,11 @@
 # Hello, I'm Raden Muhammad Mikhel Adrian Soehardi!
 
-I am a undergraduate student passionate about game programming and game designing. 
-Currently studying at Bina Nusantara University.
+---
+
+## 📌 About Me
+Hi! I'm Raden Muhammad Mikhel Adrian Soehardi, you might know me by my nickname Mikhel, or my online username Kitsucchi. I am an undergraduate student studying Computer Science with focus on Interactive Multimedia with a GPA of 3.28/4.00. 
+
+I'm very passionate and learning about Game Designing and Game Programming, currently I use Unity to develop games and trying to learn other game engines. Other than game development, I also have basic skills in web development using HTML, CSS, and JavaScript.
 
 ---
 
