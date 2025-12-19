@@ -33,7 +33,7 @@ I'm very passionate and learning about Game Designing and Game Programming, curr
 
 | 📘 Document | 📄 Design Details |
 | :---: | --- |
-| <img src="LINK_TO_YOUR_COVER_IMAGE.png" width="200"> | **Title:** Lullabies for the Lost<br>**Genre:** 2D Psychological Horror RPG / Puzzle<br>**Target Audience:** Adult fans of Narrative Horror (e.g., Corpse Party, Ib)<br><br>**High Concept:**<br>A psychological horror RPG where a disgraced journalist must use a music box to soothe tormented spirits and uncover a dark ritual in an orphanage where his deteriorating sanity actively warps reality.<br><br>👉 [**Read Full GDD (PDF)**](LINK_TO_YOUR_PDF_FILE.pdf) |
+| <img src="https://drive.google.com/file/d/1yzb3cQkanK8eAgvQuXCImgoE3UJJjRkE/view" width="200"> | **Title:** Lullabies for the Lost<br>**Genre:** 2D Psychological Horror RPG / Puzzle<br>**Target Audience:** Adult fans of Narrative Horror (e.g., Corpse Party, Ib)<br><br>**High Concept:**<br>A psychological horror RPG where a disgraced journalist must use a music box to soothe tormented spirits and uncover a dark ritual in an orphanage where his deteriorating sanity actively warps reality.<br><br>[**Read Full GDD (PDF)**](https://github.com/kitsucchi/GameDesignPortfolio/blob/main/Lullabies%20for%20The%20Lost.pdf) |
 
 ---
 
