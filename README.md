@@ -33,7 +33,7 @@ I'm very passionate and learning about Game Designing and Game Programming, curr
 
 | 📘 Document | 📄 Design Details |
 | :---: | --- |
-| <img src="https://drive.google.com/file/d/1yzb3cQkanK8eAgvQuXCImgoE3UJJjRkE/view" width="200"> | **Title:** Lullabies for the Lost<br>**Genre:** 2D Psychological Horror RPG / Puzzle<br>**Target Audience:** Adult fans of Narrative Horror (e.g., Corpse Party, Ib)<br><br>**High Concept:**<br>A psychological horror RPG where a disgraced journalist must use a music box to soothe tormented spirits and uncover a dark ritual in an orphanage where his deteriorating sanity actively warps reality.<br><br>[**Read Full GDD (PDF)**](https://github.com/kitsucchi/GameDesignPortfolio/blob/main/Lullabies%20for%20The%20Lost.pdf) |
+| <img src="https://media.discordapp.net/attachments/705573950666702859/1451561294221279242/elias_consumed_1.png?ex=69469f4d&is=69454dcd&hm=ab5001c890af29a711b4525755064a5d8069bb4aba1979793c06aae5f5c1551b&=&format=webp&quality=lossless&width=563&height=563" width="200"> | **Title:** Lullabies for the Lost<br>**Genre:** 2D Psychological Horror RPG / Puzzle<br>**Target Audience:** Adult fans of Narrative Horror (e.g., Corpse Party, Ib)<br><br>**High Concept:**<br>A psychological horror RPG where a disgraced journalist must use a music box to soothe tormented spirits and uncover a dark ritual in an orphanage where his deteriorating sanity actively warps reality.<br><br>[**Read Full GDD (PDF)**](https://github.com/kitsucchi/GameDesignPortfolio/blob/main/Lullabies%20for%20The%20Lost.pdf) |
 
 ---
 
